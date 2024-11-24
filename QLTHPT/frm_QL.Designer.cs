@@ -34,10 +34,11 @@
             this.quảnLýĐiểmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.quảnLýGiáoViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.uC_QLGV1 = new QLTHPT.UC_QLGV();
+            this.uC_QLDiem1 = new QLTHPT.UC_QLDiem();
             this.uC_QLTKB1 = new QLTHPT.UC_QLTKB();
             this.uC_QLHS1 = new QLTHPT.UC_QLHS();
-            this.uC_QLDiem1 = new QLTHPT.UC_QLDiem();
-            this.uC_QLGV1 = new QLTHPT.UC_QLGV();
+            this.đăngXuấtToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -50,7 +51,8 @@
             this.quanLyToolStripMenuItem,
             this.quanLyToolStripMenuItem1,
             this.quảnLýĐiểmToolStripMenuItem,
-            this.quảnLýGiáoViênToolStripMenuItem});
+            this.quảnLýGiáoViênToolStripMenuItem,
+            this.đăngXuấtToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1045, 31);
@@ -104,6 +106,20 @@
             this.panel1.Size = new System.Drawing.Size(1041, 566);
             this.panel1.TabIndex = 1;
             // 
+            // uC_QLGV1
+            // 
+            this.uC_QLGV1.Location = new System.Drawing.Point(0, -3);
+            this.uC_QLGV1.Name = "uC_QLGV1";
+            this.uC_QLGV1.Size = new System.Drawing.Size(1041, 566);
+            this.uC_QLGV1.TabIndex = 3;
+            // 
+            // uC_QLDiem1
+            // 
+            this.uC_QLDiem1.Location = new System.Drawing.Point(0, 0);
+            this.uC_QLDiem1.Name = "uC_QLDiem1";
+            this.uC_QLDiem1.Size = new System.Drawing.Size(1041, 566);
+            this.uC_QLDiem1.TabIndex = 2;
+            // 
             // uC_QLTKB1
             // 
             this.uC_QLTKB1.Location = new System.Drawing.Point(0, -3);
@@ -118,19 +134,12 @@
             this.uC_QLHS1.Size = new System.Drawing.Size(1041, 566);
             this.uC_QLHS1.TabIndex = 0;
             // 
-            // uC_QLDiem1
+            // đăngXuấtToolStripMenuItem
             // 
-            this.uC_QLDiem1.Location = new System.Drawing.Point(0, 0);
-            this.uC_QLDiem1.Name = "uC_QLDiem1";
-            this.uC_QLDiem1.Size = new System.Drawing.Size(1041, 566);
-            this.uC_QLDiem1.TabIndex = 2;
-            // 
-            // uC_QLGV1
-            // 
-            this.uC_QLGV1.Location = new System.Drawing.Point(0, -3);
-            this.uC_QLGV1.Name = "uC_QLGV1";
-            this.uC_QLGV1.Size = new System.Drawing.Size(1041, 566);
-            this.uC_QLGV1.TabIndex = 3;
+            this.đăngXuấtToolStripMenuItem.Name = "đăngXuấtToolStripMenuItem";
+            this.đăngXuấtToolStripMenuItem.Size = new System.Drawing.Size(95, 27);
+            this.đăngXuấtToolStripMenuItem.Text = "Đăng  xuất";
+            this.đăngXuấtToolStripMenuItem.Click += new System.EventHandler(this.đăngXuấtToolStripMenuItem_Click);
             // 
             // frm_QL
             // 
@@ -165,5 +174,6 @@
         private UC_QLTKB uC_QLTKB1;
         private UC_QLGV uC_QLGV1;
         private UC_QLDiem uC_QLDiem1;
+        private System.Windows.Forms.ToolStripMenuItem đăngXuấtToolStripMenuItem;
     }
 }

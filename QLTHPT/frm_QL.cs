@@ -6,6 +6,7 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Web.WebSockets;
 using System.Windows.Forms;
 
 namespace QLTHPT
@@ -49,6 +50,13 @@ namespace QLTHPT
             uC_QLGV1.Visible = true;
             uC_QLGV1.BringToFront();
            
+        }
+
+        private void đăngXuấtToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            frm_Dangnhap a=new frm_Dangnhap();
+            a.Show();
         }
     }
 }

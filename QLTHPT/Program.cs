@@ -16,7 +16,7 @@ namespace QLTHPT
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frm_QL());
+            Application.Run(new frm_Dangnhap());
         }
     }
 }

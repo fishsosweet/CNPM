@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DAO\KNCSDL.cs" />
+    <Compile Include="DAO\NguoiDung.cs" />
     <Compile Include="DTO\HocSinhDTO.cs" />
     <Compile Include="frm_Dangnhap.cs">
       <SubType>Form</SubType>

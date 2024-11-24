@@ -8909,7 +8909,7 @@
         rgAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="guna2TextBox1.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="TaiKhoan.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAoAAAAKACAYAAAAMzckjAAAABGdBTUEAALGPC/xhBQAAi49JREFUeF7t
         nQd4FFXbv/8ku5tk00kgEAih19CbhCYg0ougSBEsVAsoggURBF7ABqgIlldUmggoRSxUQUBAmjSpoQQC
@@ -9510,7 +9510,7 @@
         AAAAAAAAAAAAAAAAcM/w//7f/wc1zPHxAuvsTQAAAABJRU5ErkJggg==
 </value>
   </data>
-  <data name="guna2TextBox2.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+  <data name="MatKhau.IconLeft" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAuAAAALgCAYAAADV3sIJAAAABGdBTUEAALGPC/xhBQAAuDxJREFUeF7s
         3Qd4U1UfBvDcc+5I0nTSQtkbRPZUVJagiOwpy62o4GIp+wNRcACKqCAgigjIlD1kVPYqo0ChWEqBQikt

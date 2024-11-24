@@ -13,7 +13,7 @@ namespace QLTHPT.DAO
         private static SqlConnection cnn = new SqlConnection();
         public static void Moketnoi()
         {
-            string sqlcon = @"";
+            string sqlcon = @"Data Source=FISH\SQLEXPRESS;Initial Catalog=QLHSTHPT;Integrated Security=True";
             cnn.ConnectionString = sqlcon;
             if (cnn.State == ConnectionState.Closed)
             {
