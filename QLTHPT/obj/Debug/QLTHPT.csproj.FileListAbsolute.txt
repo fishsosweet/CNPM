@@ -1,0 +1,17 @@
+C:\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe.config
+C:\QLTHPT\QLTHPT\bin\Debug\QLTHPT.exe
+C:\QLTHPT\QLTHPT\bin\Debug\QLTHPT.pdb
+C:\QLTHPT\QLTHPT\bin\Debug\Guna.UI2.dll
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.AssemblyReference.cache
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.Properties.Resources.resources
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.GenerateResource.cache
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CoreCompileInputs.cache
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.csproj.CopyComplete
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.exe
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.pdb
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.frm_Dangnhap.resources
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.frm_QL.resources
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.UC_QLDiem.resources
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.UC_QLHS.resources
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.UC_QLTKB.resources
+C:\QLTHPT\QLTHPT\obj\Debug\QLTHPT.UC_QLGV.resources
