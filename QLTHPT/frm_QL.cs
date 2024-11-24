@@ -33,8 +33,7 @@ namespace QLTHPT
             uC_QLHS1.Visible = false;
             uC_QLTKB1.Visible = false;
             uC_QLDiem1.Visible = false;
-            uC_QLGV1.Visible = false;
-            
+            uC_QLGV1.Visible = false;        
         }
 
         private void quảnLýĐiểmToolStripMenuItem_Click(object sender, EventArgs e)
