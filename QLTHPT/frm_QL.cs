@@ -20,12 +20,14 @@ namespace QLTHPT
         private void quanLyToolStripMenuItem_Click(object sender, EventArgs e)
         {
             uC_QLHS1.Visible = true;
+            uC_QLHS1.BringToFront();
 
         }
 
         private void quanLyToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             uC_QLTKB1.Visible = true;
+            uC_QLTKB1.BringToFront();
         }
 
         private void frm_QL_Load(object sender, EventArgs e)
@@ -39,11 +41,13 @@ namespace QLTHPT
         private void quảnLýĐiểmToolStripMenuItem_Click(object sender, EventArgs e)
         {
             uC_QLDiem1.Visible = true;
+            uC_QLDiem1.BringToFront();
         }
 
         private void quảnLýGiáoViênToolStripMenuItem_Click(object sender, EventArgs e)
         {
             uC_QLGV1.Visible = true;
+            uC_QLGV1.BringToFront();
            
         }
     }
